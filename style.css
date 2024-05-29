@@ -40,6 +40,7 @@ main{
     padding: 20px;
     margin: 20px 0;
     border-radius: 10px;
+    font-size: 20px;
 }
 .article-section img {
     max-width: 100%;
@@ -54,7 +55,7 @@ main{
 }
 .pie-form{
     text-align: center;
-    font-size: 22px;
+    font-size: 23px;
 }
 /*Formulario*/
 form{
